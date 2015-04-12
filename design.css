@@ -1,0 +1,6 @@
+body{margin:0;padding:0;background:#fff;font-size:15px;text-align: center;}
+table#table{width:100%;}
+table#table td{text-align: center;}
+input,select,textarea{padding:3px;}
+#last{background:#eef;border:1px solid #ddd;padding:5px;}
+img{vertical-align:top;}
